@@ -6,6 +6,8 @@ Precision medicine aims to find molecular signatures that can be used to predict
 
 # Association beween covariables and phenotype
 
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVJCeC-VY2LR2UXPiEueC7KSZrM_bVqcR-cYNknTb-zIkOTJNqxQaVmn80ZggedesfjkCRtCiEA70EHYD392MDwjJQ9Nm4NvwHj_-4Bg6Z1PUBJGvssEACQJdDgZAtcNw58SF_qi2liIhWgO2Ld82NVM-WwJbHK7PolSvVMJgWASGgiTWJIRA_ik0fT8M/s2500/Figure1.png)
+
 # Interactions among variables
 
 # Discovery of molecular signatures
