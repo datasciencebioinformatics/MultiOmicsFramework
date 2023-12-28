@@ -15,5 +15,8 @@ Example of interaction testing between among two variables. Logistic regression 
 
 
 # Discovery of molecular signatures
+Example of discovery of molecular signatures. Stepwise logistic regression and ROC curve analyses.
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSDRUyaU-u-rYHgOHvqsPHamd7nf58m53Up7KWGLcXj6766vj1a1_ZFnmLelYZrxEdw-h2L0WTjEoXF-kQ_v0hBoIKIvXO42YB1fMh29nJ0DveYn8DCd41J09svEzU6MH5_8VQE0pMVUlELsfaHP6hjwU9q0nGo4Hmy76ut9iAskD-MdelMRULdbgeRgc/s2058/Figure4.png)
 
 # Multi-omics discovery of signatures
