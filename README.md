@@ -6,7 +6,7 @@ Precision medicine aims to find molecular signatures that can be used to predict
 # Association beween covariables and phenotype
 Example of association testing between a covariable (DMT2) and the pheotype (Heart ischemia). 
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVJCeC-VY2LR2UXPiEueC7KSZrM_bVqcR-cYNknTb-zIkOTJNqxQaVmn80ZggedesfjkCRtCiEA70EHYD392MDwjJQ9Nm4NvwHj_-4Bg6Z1PUBJGvssEACQJdDgZAtcNw58SF_qi2liIhWgO2Ld82NVM-WwJbHK7PolSvVMJgWASGgiTWJIRA_ik0fT8M/s2500/Figure1.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp92x6prs0Z5nVmkqT91mbDOI72Myk4nylO6OfMfrVtHVBsn-jbp8C0sEtGGD2MgoqvykHQ7AXsfvZIoB-YQ_DO-DWsUMS_fWiXggc_L8521o8MspzjCWeKi1kPd2EI9f05bQY2GrheDb-DlEKg40mibgFFE_MPrFb9-6BU03r18Mfs3ICPv6ZavRYOdM/s2500/Figure1.png)
 
 # Interactions among variables
 
